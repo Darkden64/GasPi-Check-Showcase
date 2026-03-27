@@ -24,6 +24,8 @@ GasPi-Check n'est pas une simple liste de courses. C'est un écosystème complet
 * **Design Bio-Design** : Interface épurée avec accordéons rétractables pour "Ma Nourriture" et "Statistiques".
 * **Sanctuaire du Frigo** : Système de *Streak* (flamme 🔥) récompensant les jours consécutifs sans gâchis avec des multiplicateurs d'XP.
 
+### 5. 📸 Aperçu de l'Application
+
 
 ## 🛠 Stack Technique
 * **Frontend** : React Native (Expo) & TypeScript.
