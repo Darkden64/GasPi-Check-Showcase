@@ -27,7 +27,7 @@ GasPi-Check n'est pas une simple liste de courses. C'est un écosystème complet
 ### 5. 📸 Aperçu de l'Application
 <img src="https://github.com/Darkden64/GasPi-Check-Showcase/blob/main/dashboard-alerte.png?raw=true" width="300" alt="Capture d'écran de GasPi-Check" />
 <img src="https://github.com/Darkden64/GasPi-Check-Showcase/blob/main/scan-barcode.png?raw=true" width="300" alt="Capture d'écran de GasPi-Check" />
-<img src="COLLE_TON_LIEN_ICI" width="300" alt="Capture d'écran de GasPi-Check" />
+<img src="https://github.com/Darkden64/GasPi-Check-Showcase/blob/main/stats-donut.png?raw=true" width="300" alt="Capture d'écran de GasPi-Check" />
 
 ## 🛠 Stack Technique
 * **Frontend** : React Native (Expo) & TypeScript.
