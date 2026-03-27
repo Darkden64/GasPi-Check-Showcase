@@ -25,7 +25,13 @@ GasPi-Check n'est pas une simple liste de courses. C'est un écosystème complet
 * **Sanctuaire du Frigo** : Système de *Streak* (flamme 🔥) récompensant les jours consécutifs sans gâchis avec des multiplicateurs d'XP.
 
 ### 5. 📸 Aperçu de l'Application
-<img src="https://github.com/Darkden64/GasPi-Check-Showcase/blob/main/dashboard-alerte.png?raw=true" width="300" alt="Capture d'écran de GasPi-Check" />      <img src="https://github.com/Darkden64/GasPi-Check-Showcase/blob/main/scan-barcode.png?raw=true" width="300" alt="Capture d'écran de GasPi-Check" />      <img src="https://github.com/Darkden64/GasPi-Check-Showcase/blob/main/stats-donut.png?raw=true" width="300" alt="Capture d'écran de GasPi-Check" />
+<p align="center">
+  <img src="dashboard-alerte.png" width="280" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="scan-barcode.png" width="280" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="stats-donut.png" width="280" />
+</p>
 
 ## 🛠 Stack Technique
 * **Frontend** : React Native (Expo) & TypeScript.
