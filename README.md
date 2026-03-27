@@ -27,9 +27,9 @@ GasPi-Check n'est pas une simple liste de courses. C'est un écosystème complet
 ### 5. 📸 Aperçu de l'Application
 <p align="center">
   <img src="dashboard-alerte.png" width="280" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="scan-barcode.png" width="280" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="stats-donut.png" width="280" />
 </p>
 
