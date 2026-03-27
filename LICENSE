@@ -1,0 +1,16 @@
+# LICENSE - GasPi-Check
+
+**Copyright (c) 2026 Darkden64**
+
+**TOUS DROITS RÉSERVÉS.**
+
+Ce dépôt est une **vitrine technologique** (Showcase) destinée à présenter le concept et l'interface de l'application **GasPi-Check**. Le code source original est conservé dans un dépôt privé et n'est pas fourni ici.
+
+Toute reproduction, copie, modification ou utilisation commerciale des éléments suivants est strictement interdite sans l'accord écrit préalable de l'auteur :
+
+1. **Système de Gamification "Hardcore"** : La logique de calcul des points d'expérience (XP), incluant les malus de -200 XP pour le gâchis et -100 XP pour les aliments périmés.
+2. **Moteur d'Impact Écologique** : L'algorithme hybride de calcul de CO2 basé sur les données Open Food Facts et Agribalyse.
+3. **Identité Visuelle & UX** : Le design du dashboard, le bandeau blanc arrondi des statistiques, et le système de progression "Zen-Eco".
+4. **Logique de la Sentinelle** : Le système d'alertes J-1 / J-0 et la gestion automatique de la corbeille le dimanche soir.
+
+Pour toute demande d'information ou de collaboration, merci de contacter le propriétaire via le profil GitHub @Darkden64.
