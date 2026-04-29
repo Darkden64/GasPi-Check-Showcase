@@ -32,9 +32,9 @@
 
 <h2>🎮 Gamification & Behavioral Science</h2>
 <ul>
-  <li><b>Économie Hardcore</b> : Système punitif/récompensant (+50/-200 XP) pour un changement de comportement réel.</li>
+  <li><b>Économie Hardcore</b> : Système punitif/récompensant (0 XP ajout, -200 XP gâchis, -100 XP périmé) pour un changement de comportement réel.</li>
   <li><b>Grades Zen-Eco</b> : 10 paliers de progression avec cartes de pouvoirs stratégiques (Turbo XP, Reset).</li>
-  <li><b>Statistiques</b> : Bandeau blanc arrondi avec trois colonnes (Gain XP, Perte XP, Efficacité) et vue hebdomadaire par défaut.</li>
+  <li><b>Statistiques</b> : Bandeau blanc arrondi avec trois colonnes (Gain XP, Perte XP, Score d'efficacité) et vue hebdomadaire par défaut.</li>
 </ul>
 
 <h2>🛡 Privacy & RGPD Compliance</h2>
