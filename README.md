@@ -1,9 +1,3 @@
-C'est rageant, GitHub a littéralement "mangé" ton tableau au lieu de l'afficher. C'est parce que le formatage Markdown est parfois trop sensible aux espaces.
-
-Regarde ta capture : le texte est là, mais les images ont disparu. On va régler ça avec un code HTML ultra-simple. Le HTML, GitHub ne peut pas le rater, il est obligé de l'afficher correctement.
-
-Efface tout à nouveau et colle ce bloc exact :
-HTML
 
 # GasPi-Check V9.5 — The Enviro-Tech Impact Engine 🌍
 
