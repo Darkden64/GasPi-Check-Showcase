@@ -1,22 +1,5 @@
 <h1>GasPi-Check V9.5 — The Enviro-Tech Impact Engine 🌍</h1>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <b>Dashboard</b><br>
-      <img src="assets/screenshots/v9.5/Screenshot_20260429_223839_GasPiCheck.jpg" width="200">
-    </td>
-    <td align="center" width="33%">
-      <b>Impact Global</b><br>
-      <img src="assets/screenshots/v9.5/image_6d9d9f.png" width="200">
-    </td>
-    <td align="center" width="33%">
-      <b>Frigo Familial</b><br>
-      <img src="assets/screenshots/v9.5/Screenshot_20260429_225309_GasPiCheck.jpg" width="200">
-    </td>
-  </tr>
-</table>
-
 <br>
 
 <blockquote>
