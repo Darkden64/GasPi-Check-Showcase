@@ -1,46 +1,38 @@
-# GasPi-Check-Showcase
- Présentation de l'application GasPi-Check (V6.5) 
-**L'assistant intelligent qui transforme le gaspillage alimentaire en impact écologique positif.**
+# GasPi-Check V9.5 — The Enviro-Tech Impact Engine 🌍
 
-GasPi-Check n'est pas une simple liste de courses. C'est un écosystème complet de gestion alimentaire utilisant la gamification "Hardcore" et des algorithmes écologiques pour réduire radicalement votre empreinte carbone.
+<table style="width: 100%;">
+  <tr>
+    <td align="center" width="33%">
+      <b>Dashboard</b><br>
+      <img src="assets/screenshots/v9.5/Screenshot_20260429_223839_GasPiCheck.jpg" width="200"/>
+    </td>
+    <td align="center" width="33%">
+      <b>Impact Global</b><br>
+      <img src="assets/screenshots/v9.5/image_6d9d9f.png" width="200"/>
+    </td>
+    <td align="center" width="33%">
+      <b>Frigo Familial</b><br>
+      <img src="assets/screenshots/v9.5/Screenshot_20260429_225309_GasPiCheck.jpg" width="200"/>
+    </td>
+  </tr>
+</table>
 
-## 🚀 Fonctionnalités Clés (V6.5)
+> **"Turning food waste data into actionable climate positive assets."**
+> Une plateforme Enviro-Tech alliant gestion intelligente, gamification (Zen-Eco) et Big Data RSE.
 
-### 1. Système de Statistiques & Impact (Dashboard Blanc)
-* **Sélecteur de Période Dynamique** : Visualisation des performances par vue **Journalière (par défaut)**, **Hebdomadaire**, **Mensuelle** et **Annuelle**.
-* **Bandeau de Performance XP** : Affichage en trois colonnes du gain, de la perte d'XP et du score d'efficacité avec message de rétroaction dynamique selon vos résultats.
-* **Analyse CO2 Hybride** : Calcul de l'impact carbone via l'API **Open Food Facts** (Agribalyse) avec un système de repli (fallback) intelligent par catégorie (Viandes, Laitiers, Fruits & Légumes, etc.).
+## 🏗 Architecture Standard
+* **Frontend** : React Native / Expo / TypeScript (Strong Typing).
+* **Cloud Sync** : Firebase Firestore Real-time (Family Sync jusqu'à 6 membres).
+* **Local-First** : Architecture hybride AsyncStorage/Cloud pour une performance offline-first.
 
-### 2. Gamification "Hardcore Mode"
-* **Règles Strictes** : 0 XP à l'ajout (l'effort commence à la consommation +50xp ou +20xp selon la fraîcheur de l'aliment), **-200 XP** pour le gâchis volontaire (bouton Jeter) et **-100 XP** pour les produits périmés.
-* **Zen-Eco Grades** : Une progression à travers 10 grades narratifs (de "Novice des stocks" à "Légionnaire Éternel de la Terre") avec des défis spécifiques par palier.
-* **Eco-Legacy 2026** : Un moteur de quêtes mensuelles avec un hub "Gaming" permettant de débloquer des cartes d'avantages et des trophées.
+## 🎮 Gamification & Behavioral Science
+* **Économie Hardcore** : Système punitif/récompensant (+50/-200 XP) pour un changement de comportement réel.
+* **Grades Zen-Eco** : 10 paliers de progression avec cartes de pouvoirs stratégiques (Turbo XP, Reset).
 
-### 3. Gestion Intelligente du Stock
-* **Scanner Hybride** : Ajout rapide via scan de code-barres ou saisie manuelle avec catégorisation automatique.
-* **Sentinelle de Péremption** : Alertes Push locales configurées à **J-1** et **J-0 (09h00)** pour garantir qu'aucun aliment ne soit oublié.
+## 🛡️ Privacy & RGPD Compliance
+* **Kill Switch (V9.5)** : Suppression instantanée et totale des données (Cloud & Local).
+* **Anonymisation** : IDs rotatifs et Data Minimization (Zéro tracking nominatif).
 
-### 4. Expérience Utilisateur (UX)
-* **Design Bio-Design** : Interface épurée avec accordéons rétractables pour "Ma Nourriture" et "Statistiques".
-* **Sanctuaire du Frigo** : Système de *Streak* (flamme 🔥) récompensant les jours consécutifs sans gâchis avec des multiplicateurs d'XP.
-
-### 5. 📸 Aperçu de l'Application
-<p align="center">
-  <img src="dashboard-alerte.png" width="280" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="scan-barcode.png" width="280" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="stats-donut.png" width="280" />
-</p>
-
-## 🛠 Stack Technique
-* **Frontend** : React Native (Expo) & TypeScript.
-* **Données** : Open Food Facts API & Agribalyse.
-* **Graphiques** : Moteur hybride SVG (Web) et Native Charts.
-* **Persistance** : AsyncStorage avec moteur de synchronisation temporelle (Time Travel Debugger).
-
-## 👨‍💻 Créateur
-**Darkden64** — Conception & Développement intégral — [Profil GitHub](https://github.com/Darkden64)
-
----
-*Développé avec passion pour sauver la planète, un yaourt à la fois. 🌿*
+## 📊 Impact RSE
+* **Barcode Analytics V2** : Insights sur le gaspillage post-achat par EAN.
+* **Équivalences CO2** : Traduction de l'impact en mesures concrètes (Vols NY, Arbres).
