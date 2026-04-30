@@ -35,6 +35,10 @@ Nous transformons les scans en insights :
 
 | Dashboard | Impact Global | Frigo Familial |
 | :---: | :---: | :---: |
-| ![Dashboard](https://raw.githubusercontent.com/Darkden64/GasPi-Check/main/assets/screenshots/v9.5/Screenshot_20260429_223839_GasPiCheck.jpg) | ![Impact Global](https://raw.githubusercontent.com/Darkden64/GasPi-Check/main/assets/screenshots/v9.5/image_6d9d9f.png) | ![Frigo Familial](https://raw.githubusercontent.com/Darkden64/GasPi-Check/main/assets/screenshots/v9.5/Screenshot_20260429_225309_GasPiCheck.jpg) |
+| ![Dashboard](https://github.com/user-attachments/assets/a79fcb8a-c4e3-42f8-8f78-b8ecf5a8cb50) | ![Impact Global](https://github.com/user-attachments/assets/eb6b6485-be70-4a44-a56c-548092bf4e2b) | ![Frigo Familial](https://github.com/user-attachments/assets/c4241179-694a-4db6-ab60-9ed519d907b9) |
+
+| Scan Produit | Gamification | Paramètres |
+| :---: | :---: | :---: |
+| ![Scan](https://github.com/user-attachments/assets/4e9402a0-4751-4c9d-bd40-274ce84f5ba3) | ![Gamification](https://github.com/user-attachments/assets/77d47d61-9c89-4591-a45e-32d252bbd0d7) | ![Paramètres](https://github.com/user-attachments/assets/e8b96b15-3faa-4c69-a65a-16a20712f3cf) |
 ---
 
