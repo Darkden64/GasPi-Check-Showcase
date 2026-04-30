@@ -1,15 +1,230 @@
-## 🛡️ Licence Propriétaire V9.5 (Showcase)
+# PROPRIETARY SOFTWARE LICENSE AGREEMENT
+## GasPi-Check — All Rights Reserved
 
-Copyright (c) 2026 Darkden64. Tous droits réservés.
+**Copyright © 2026 Darkden64. All rights reserved.**
 
-### Protection IA
-Il est strictement interdit d'utiliser tout ou partie de ce dépôt (texte, structure, logique décrite) pour l'entraînement, le fine-tuning ou le test de modèles d'IA/LLM sans accord écrit.
+**Effective Date:** April 29, 2026
+**Jurisdiction:** France · European Union · International
 
-### Système Hardcore (IP)
-Le système de règles de gamification (dont les malus **-200 XP** pour gâchis et **-100 XP** pour périmé), ainsi que les mécaniques de progression Zen-Eco, constituent une logique originale protégée.
+---
 
-### Cloud & Data
-La structure des données (schémas, règles, logique de synchronisation familiale) et la méthodologie d'impact (conversion CO2 + équivalences) sont des éléments propriétaires.
+## PREAMBLE
 
-### Contact
-Pour toute demande de licence, partenariat ou accès à des composants privés : **Darkden64**.
+This Proprietary Software License Agreement ("Agreement") governs all access to, use of, copying, modification, distribution, reverse engineering, or any other interaction with the software, source code, algorithms, data structures, data pipelines, user interface designs, gamification systems, business logic, databases schemas, and all associated documentation (collectively, the "Software") developed and owned by Darkden64 ("Author", "Owner", "Licensor").
+
+The Software includes, without limitation, the mobile application known as **GasPi-Check**, all its versions from V1.0 through V9.5 and beyond, all associated repositories, codebases, roadmap documents, technical architectures, data monetization strategies, and any derivative or related works.
+
+BY ACCESSING, VIEWING, CLONING, FORKING, DOWNLOADING, OR OTHERWISE INTERACTING WITH ANY PART OF THIS SOFTWARE OR ITS REPOSITORIES, YOU ("Licensee", "User", "Third Party") ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT IN THEIR ENTIRETY.
+
+IF YOU DO NOT AGREE TO THESE TERMS, YOU MUST IMMEDIATELY CEASE ALL ACCESS TO AND USE OF THE SOFTWARE.
+
+---
+
+## ARTICLE 1 — OWNERSHIP AND INTELLECTUAL PROPERTY
+
+### 1.1 Exclusive Ownership
+The Software, in its entirety and in each of its constituent parts, is the exclusive intellectual property of Darkden64. This ownership includes but is not limited to:
+
+- All source code, in any programming language, including TypeScript, JavaScript, and any configuration files
+- All algorithms, logic flows, and computational methods, including but not limited to the Zen-Eco gamification engine, the XP economy system, the freshnessScore calculation engine, the streak multiplier system, and the Power Cards mechanism
+- All data structures, Firestore database schemas, AsyncStorage key architectures, and data pipeline designs
+- The Barcode Analytics V2 pipeline, including the EAN-level behavioral indexing system, the meal slot classification algorithm, and all associated aggregation logic
+- The Local First Cloud Sync architecture, including the dual-write mechanism, the `isStorageLoaded` guard pattern, and the conflict resolution strategy
+- The Family Fridge synchronization system, including the invite code generation mechanism, the anti-bruteforce logic, and the `unsubscribeFamilyRef` logout flow
+- The GDPR Kill-Switch implementation and all associated privacy-by-design patterns
+- The CO₂ hybrid calculation engine combining Agribalyse data with Open Food Facts category fallbacks
+- All user interface designs, screen layouts, color schemes, typography choices, component architectures, and visual identities
+- All business strategies, monetization roadmaps, data valuation models, and client targeting analyses contained in any document associated with this Software
+- All roadmap documents, technical specifications, session notes, and prompt engineering content
+- The name "GasPi-Check", the tagline "L'intelligence collective au service de la décarbonation alimentaire", the name "Zen-Eco", and all associated branding
+
+### 1.2 Copyright Protection
+This Software is protected under:
+- French intellectual property law, including the **Code de la propriété intellectuelle** (CPI), Articles L111-1 et seq.
+- European Union Directive 2009/24/EC on the legal protection of computer programs
+- The **Berne Convention for the Protection of Literary and Artistic Works** (applicable in 179 countries)
+- The **TRIPS Agreement** (Agreement on Trade-Related Aspects of Intellectual Property Rights)
+- The **WIPO Copyright Treaty (WCT)**
+- United States copyright law (17 U.S.C. § 101 et seq.) to the extent applicable
+
+### 1.3 Trade Secret Protection
+The business logic, data monetization strategy, behavioral analytics pipeline, and associated commercial intelligence contained within or described by this Software constitute **trade secrets** protected under:
+- French law on trade secrets (**Loi n° 2018-670** transposing EU Directive 2016/943)
+- EU Directive 2016/943 on the protection of undisclosed know-how and business information
+- The **Defend Trade Secrets Act (DTSA)** to the extent applicable internationally
+
+---
+
+## ARTICLE 2 — GRANT OF RIGHTS AND RESTRICTIONS
+
+### 2.1 No License Granted
+This Agreement does **not** grant any license, right, or permission of any kind to any third party. No rights are granted by implication, estoppel, or otherwise.
+
+### 2.2 Expressly Prohibited Acts
+The following acts are expressly and absolutely prohibited without prior written authorization from the Owner:
+
+**(a) Reproduction** — Copying, duplicating, or reproducing any portion of the Software, in whole or in part, in any medium or format, whether digital, physical, or otherwise.
+
+**(b) Distribution** — Distributing, publishing, transmitting, or making available to any third party any portion of the Software or any derivative thereof.
+
+**(c) Modification and Derivative Works** — Modifying, adapting, translating, transforming, or creating derivative works based on the Software or any of its constituent elements, including but not limited to its algorithms, data structures, gamification logic, or architectural patterns.
+
+**(d) Reverse Engineering** — Reverse engineering, decompiling, disassembling, or otherwise attempting to derive the source code, underlying algorithms, or logic from any compiled or deployed version of the Software.
+
+**(e) Commercial Exploitation** — Using any portion of the Software, its concepts, its business strategies, its data monetization models, or its technical architecture for any commercial purpose whatsoever.
+
+**(f) Competitive Use** — Using any knowledge, concepts, architectural patterns, or business insights derived from the Software to build, develop, or improve any competing product or service, whether directly or indirectly.
+
+**(g) Data Pipeline Replication** — Replicating, adapting, or implementing the Barcode Analytics pipeline, the behavioral data collection methodology, the EAN-level indexing strategy, or the data monetization approach described in or associated with the Software.
+
+**(h) Sublicensing** — Sublicensing, renting, leasing, lending, or otherwise transferring any purported rights in the Software to any third party.
+
+**(i) Circumvention** — Circumventing, disabling, or otherwise interfering with any technical protection measures or access controls applied to the Software.
+
+**(j) Misrepresentation** — Representing to any person or entity that you have any right, license, or authorization with respect to the Software.
+
+### 2.3 Permitted Use
+The sole permitted use of this Software is internal review by the Owner (Darkden64) and any individual expressly authorized in writing by the Owner for specific, limited purposes.
+
+---
+
+## ARTICLE 3 — ENFORCEMENT AND REMEDIES
+
+### 3.1 Infringement
+Any violation of this Agreement constitutes an infringement of the Owner's intellectual property rights and will be pursued to the fullest extent permitted by law.
+
+### 3.2 Legal Remedies
+In the event of any unauthorized use, reproduction, distribution, or other infringement, the Owner reserves the right to seek and shall be entitled to:
+
+**(a) Injunctive Relief** — Immediate preliminary and permanent injunctive relief, without the need to post a bond or other security, to stop the infringing activity. The Owner expressly acknowledges that monetary damages may be inadequate to compensate for certain infringements and that injunctive relief is an appropriate remedy.
+
+**(b) Actual Damages** — Full compensation for all actual damages suffered by the Owner, including lost profits, lost business opportunities, and any diminution in the value of the Software or associated business assets.
+
+**(c) Statutory Damages** — Where applicable under French law (CPI Article L335-2 et seq.) or any other applicable jurisdiction, statutory damages for copyright infringement, which may amount to up to **300,000 euros** per act of infringement under French law, and up to **150,000 USD** per work infringed under US law (17 U.S.C. § 504).
+
+**(d) Criminal Penalties** — Under French law, willful copyright infringement (contrefaçon) is a criminal offense punishable by up to **3 years imprisonment and €300,000 in fines** (CPI Article L335-2). For infringement committed by an organized group, penalties may reach **5 years imprisonment and €500,000 in fines** (CPI Article L335-4).
+
+**(e) Attorney's Fees and Costs** — Full recovery of all legal fees, court costs, expert fees, and any other costs incurred in enforcing this Agreement.
+
+**(f) Disgorgement of Profits** — Recovery of all profits derived by the infringer from the unauthorized use of the Software.
+
+**(g) Enhanced Damages** — Where infringement is found to be willful, the Owner reserves the right to seek enhanced or punitive damages to the maximum extent permitted by applicable law.
+
+### 3.3 Trade Secret Misappropriation
+Any unauthorized acquisition, disclosure, or use of the trade secrets contained in or associated with this Software shall constitute misappropriation under applicable law, including French law (Loi n° 2018-670) and the EU Trade Secrets Directive (2016/943), and shall expose the infringer to:
+- Civil liability for all damages resulting from the misappropriation
+- Criminal liability where applicable
+- Injunctive relief to prevent further disclosure or use
+
+### 3.4 No Statute of Limitations Waiver
+The Owner expressly reserves all rights to pursue infringement claims at any time permitted by applicable law and does not waive any right by delay in enforcement.
+
+---
+
+## ARTICLE 4 — CONFIDENTIALITY
+
+### 4.1 Confidential Information
+All information contained in or relating to the Software, including its source code, architecture, business strategy, data pipeline design, monetization roadmap, and technical documentation, constitutes confidential information ("Confidential Information") of the Owner.
+
+### 4.2 Confidentiality Obligation
+Any person who gains access to any Confidential Information, whether authorized or not, is bound by a strict obligation of confidentiality and shall:
+- Not disclose the Confidential Information to any third party
+- Not use the Confidential Information for any purpose other than as expressly authorized in writing by the Owner
+- Take all reasonable measures to protect the confidentiality of such information
+- Immediately notify the Owner upon discovery of any unauthorized disclosure
+
+### 4.3 Duration
+The confidentiality obligations set forth in this Article shall survive the termination of this Agreement and shall remain in force indefinitely, or for the maximum period permitted by applicable law.
+
+---
+
+## ARTICLE 5 — DATA AND ANALYTICS PIPELINE
+
+### 5.1 Proprietary Data Architecture
+The behavioral data collection methodology, the anonymous event pipeline, the EAN-level product indexing schema, the meal slot classification system, and the associated monetization strategy constitute proprietary intellectual property and trade secrets of the Owner.
+
+### 5.2 Data Moat Protection
+The concept, implementation, and commercial exploitation of collecting real-time behavioral food waste data at the EAN level, including but not limited to the approach of selling aggregated anonymous behavioral reports to food industry players (including but not limited to Danone, Nestlé, Carrefour, Leclerc, ADEME, and WWF), is the exclusive intellectual property of the Owner.
+
+Any attempt to replicate, adapt, or commercially exploit this approach by any third party who has had access to this Software or its associated documentation shall constitute both copyright infringement and trade secret misappropriation.
+
+---
+
+## ARTICLE 6 — NO WARRANTY AND LIMITATION OF LIABILITY
+
+### 6.1 No Warranty
+THE SOFTWARE IS PROVIDED "AS IS" FOR THE SOLE BENEFIT OF THE OWNER. THE OWNER MAKES NO WARRANTIES, EXPRESS OR IMPLIED, OF ANY KIND.
+
+### 6.2 Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE OWNER SHALL NOT BE LIABLE TO ANY THIRD PARTY FOR ANY DAMAGES ARISING FROM OR RELATED TO ANY UNAUTHORIZED ACCESS TO OR USE OF THE SOFTWARE.
+
+---
+
+## ARTICLE 7 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+### 7.1 Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of **France**, without regard to its conflict of laws principles.
+
+### 7.2 Jurisdiction
+Any dispute, controversy, or claim arising out of or relating to this Agreement, or the breach, termination, or invalidity thereof, shall be subject to the exclusive jurisdiction of the competent courts of **Paris, France**.
+
+### 7.3 International Enforcement
+Notwithstanding Section 7.2, the Owner reserves the right to seek enforcement of this Agreement and any judgment obtained thereunder in any jurisdiction worldwide where the infringer or its assets may be located, pursuant to applicable international treaties and conventions.
+
+### 7.4 Emergency Relief
+The Owner may seek emergency injunctive or other equitable relief from any court of competent jurisdiction without limitation to the foregoing, and without this constituting a waiver of the exclusive jurisdiction clause.
+
+---
+
+## ARTICLE 8 — MISCELLANEOUS
+
+### 8.1 Severability
+If any provision of this Agreement is held to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect.
+
+### 8.2 No Waiver
+No failure or delay by the Owner in exercising any right under this Agreement shall constitute a waiver of that right. No single or partial exercise of any right shall preclude any other or further exercise thereof.
+
+### 8.3 Entire Agreement
+This Agreement constitutes the entire agreement between the Owner and any Licensee with respect to the Software and supersedes all prior and contemporaneous agreements, representations, and understandings.
+
+### 8.4 Amendments
+This Agreement may only be amended by a written instrument signed by the Owner.
+
+### 8.5 Notice
+Any notice required or permitted under this Agreement shall be in writing and shall be delivered to the Owner via the contact information provided in the associated repository.
+
+---
+
+## ARTICLE 9 — SPECIFIC PROVISIONS FOR OPEN SOURCE COMPONENTS
+
+### 9.1 Third-Party Components
+The Software may incorporate third-party open source components, each of which is subject to its own license terms. The use of such components does not affect the proprietary nature of the Software as a whole, including all original code, architecture, and business logic created by the Owner.
+
+### 9.2 No Contamination
+The inclusion of open source components does not in any way extend open source licensing terms to the proprietary portions of the Software. The proprietary elements of the Software remain fully protected under this Agreement.
+
+---
+
+## DECLARATION OF AUTHORSHIP
+
+I, Darkden64, hereby declare and affirm that:
+
+1. I am the sole and exclusive author and owner of the Software known as GasPi-Check, including all its versions from V1.0 through V9.5 and all future versions.
+
+2. The Software has been developed independently through my own creative and technical effort, representing 95+ commits of original work.
+
+3. All rights in and to the Software are exclusively vested in me, and no third party has any claim to ownership of or rights in the Software.
+
+4. This declaration is made in good faith and to the best of my knowledge and belief.
+
+**Darkden64**
+April 29, 2026
+France
+
+---
+
+*For licensing inquiries, authorized use requests, or partnership discussions, contact the Owner via the associated GitHub repository.*
+
+*Any unauthorized use of this Software will be prosecuted to the fullest extent of the law.*
+
+**© 2026 Darkden64. All Rights Reserved. Tous droits réservés.**
