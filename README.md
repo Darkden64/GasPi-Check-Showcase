@@ -35,6 +35,6 @@ Nous transformons les scans en insights :
 
 | Dashboard | Impact Global | Frigo Familial |
 | :---: | :---: | :---: |
-| ![Dashboard](assets/screenshots/v9.5/Screenshot_20260429_223839_GasPiCheck.jpg) | ![Impact Global](assets/screenshots/v9.5/image_6d9d9f.png) | ![Frigo Familial](assets/screenshots/v9.5/Screenshot_20260429_225309_GasPiCheck.jpg) |
+| ![Dashboard](https://raw.githubusercontent.com/Darkden64/GasPi-Check/main/assets/screenshots/v9.5/Screenshot_20260429_223839_GasPiCheck.jpg) | ![Impact Global](https://raw.githubusercontent.com/Darkden64/GasPi-Check/main/assets/screenshots/v9.5/image_6d9d9f.png) | ![Frigo Familial](https://raw.githubusercontent.com/Darkden64/GasPi-Check/main/assets/screenshots/v9.5/Screenshot_20260429_225309_GasPiCheck.jpg) |
 ---
 
