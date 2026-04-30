@@ -35,7 +35,7 @@ Nous transformons les scans en insights :
 
 | Dashboard | Impact Global | Frigo Familial |
 | :---: | :---: | :---: |
-| ![Dashboard](assets/screenshots/v9.5/Screenshot_20260429_223839_GasPiCheck.jpg) | ![Impact Global](assets/screenshots/v9.5/image_6d9d9f.png) | ![Frigo Familial](assets/screenshots/v9.5/Screenshot_20260429_225309_GasPiCheck.jpg) |
+| [![Dashboard](assets/screenshots/v9.5/Screenshot_20260429_223839_GasPiCheck.jpg)](https://github.com/Darkden64/GasPi-Check/blob/8a2fc2dc14dec7a0cc7feea051a00ab7e4410c62/assets/screenshots/v9.5/Screenshot_20260429_224130_GasPiCheck.jpg) | [![Impact Global](assets/screenshots/v9.5/image_6d9d9f.png)](https://github.com/Darkden64/GasPi-Check/blob/8a2fc2dc14dec7a0cc7feea051a00ab7e4410c62/assets/screenshots/v9.5/image_6d9d9f.png) |[ ![Frigo Familial](assets/screenshots/v9.5/Screenshot_20260429_225309_GasPiCheck.jpg)](https://github.com/Darkden64/GasPi-Check/blob/8a2fc2dc14dec7a0cc7feea051a00ab7e4410c62/assets/screenshots/v9.5/Screenshot_20260429_225309_GasPiCheck.jpg) |
 
 ---
 
