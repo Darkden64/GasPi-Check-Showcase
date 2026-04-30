@@ -35,9 +35,6 @@ Nous transformons les scans en insights :
 
 | Dashboard | Impact Global | Frigo Familial |
 | :---: | :---: | :---: |
-## 📱 Aperçu de l'Interface (V9.5)
-
 | ![Dashboard](assets/screenshots/v9.5/Screenshot_20260429_223839_GasPiCheck.jpg) | ![Impact Global](assets/screenshots/v9.5/image_6d9d9f.png) | ![Frigo Familial](assets/screenshots/v9.5/Screenshot_20260429_225309_GasPiCheck.jpg) |
-
 ---
 
