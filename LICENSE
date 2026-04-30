@@ -1,18 +1,15 @@
-# GasPi-Check V9.5 — Licence Propriétaire (Version Renforcée 2026)
- 
+## 🛡️ Licence Propriétaire V9.5 (Showcase)
+
 Copyright (c) 2026 Darkden64. Tous droits réservés.
- 
-## 1) Protection de l'Écosystème Cloud & Data
-Outre le code source, la présente licence protège expressément :
-- **Architecture Cloud** : La structure des collections Firestore, les règles de sécurité et les schémas de données (Data Schemas).
-- **Barcode Analytics V2** : La méthodologie d'agrégation anonyme et les algorithmes de corrélation marque/gaspillage.
-- **Moteur d'Impact** : Les formules de calcul de conversion CO2, les équivalences (km/arbres) et la logique de pondération RSE.
- 
-## 2) Interdiction d'Entraînement IA (AI Scraping)
-Il est formellement interdit d'utiliser tout ou partie de ce dépôt (code, logique, commentaires) pour l'entraînement, le fine-tuning ou le test de modèles de langage (LLM) ou d'algorithmes d'intelligence artificielle sans accord écrit.
- 
-## 3) Système "Hardcore" & Gamification
-Le système de règles (0 XP ajout, -200 XP gâchis, -100 XP périmé) et l'inventaire des "Cartes Pouvoirs" sont des concepts protégés au titre du droit d'auteur sur la logique logicielle originale.
- 
-## 4) Usage "Vitrine" & Clause de Non-Concurrence
-Ce dépôt est une vitrine technologique. Toute reproduction de la logique métier pour créer un produit concurrent, même avec un code source différent (réécriture), constitue une violation de la propriété intellectuelle de Darkden64.
+
+### Protection IA
+Il est strictement interdit d'utiliser tout ou partie de ce dépôt (texte, structure, logique décrite) pour l'entraînement, le fine-tuning ou le test de modèles d'IA/LLM sans accord écrit.
+
+### Système Hardcore (IP)
+Le système de règles de gamification (dont les malus **-200 XP** pour gâchis et **-100 XP** pour périmé), ainsi que les mécaniques de progression Zen-Eco, constituent une logique originale protégée.
+
+### Cloud & Data
+La structure des données (schémas, règles, logique de synchronisation familiale) et la méthodologie d'impact (conversion CO2 + équivalences) sont des éléments propriétaires.
+
+### Contact
+Pour toute demande de licence, partenariat ou accès à des composants privés : **Darkden64**.
