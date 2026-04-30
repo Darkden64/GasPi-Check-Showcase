@@ -39,18 +39,3 @@ Nous transformons les scans en insights :
 
 ---
 
-## 🛡️ Licence Propriétaire V9.5 (Showcase)
-
-Copyright (c) 2026 Darkden64. Tous droits réservés.
-
-### Protection IA
-Il est strictement interdit d'utiliser tout ou partie de ce dépôt (texte, structure, logique décrite) pour l'entraînement, le fine-tuning ou le test de modèles d'IA/LLM sans accord écrit.
-
-### Système Hardcore (IP)
-Le système de règles de gamification (dont les malus **-200 XP** pour gâchis et **-100 XP** pour périmé), ainsi que les mécaniques de progression Zen-Eco, constituent une logique originale protégée.
-
-### Cloud & Data
-La structure des données (schémas, règles, logique de synchronisation familiale) et la méthodologie d'impact (conversion CO2 + équivalences) sont des éléments propriétaires.
-
-### Contact
-Pour toute demande de licence, partenariat ou accès à des composants privés : **Darkden64**.
