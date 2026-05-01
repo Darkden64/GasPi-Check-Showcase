@@ -137,6 +137,6 @@ GasPi-Check is behavioral, real-scale, EAN-level, timestamped.
 
 ## 👤 Author
 
-**Darkden64** — Solo builder · 95 commits · 0 burnout.
+**Gaspicheck-Labs** — Solo builder · 95 commits · 0 burnout.
 
 *Built with React Native, Firebase, and an unreasonable amount of conviction.*
